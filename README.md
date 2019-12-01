@@ -1,4 +1,4 @@
-# Awesome Biohacking [![Build Status](https://travis-ci.org/seeker89/awesome-biohacking.svg?branch=master)](https://travis-ci.org/seeker89/awesome-biohacking)
+# Awesome Biohacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome biohacking resources
 
