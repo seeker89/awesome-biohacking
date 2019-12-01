@@ -1,8 +1,6 @@
 # Awesome Biohacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome biohacking resources
-
-## Biohacking
+A curated list of awesome biohacking resources.
 
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/biohacking):
 
@@ -13,3 +11,5 @@ According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/biohac
 Overlaps with [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology), [Quantified self](https://en.wikipedia.org/wiki/Quantified_self)
 
 :warning: None of this is medical advice. For research use only.
+
+## Contents
