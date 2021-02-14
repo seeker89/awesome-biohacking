@@ -1,8 +1,6 @@
-# Awesome Biohacking [![Build Status](https://travis-ci.org/seeker89/awesome-biohacking.svg?branch=master)](https://travis-ci.org/seeker89/awesome-biohacking)
+# Awesome Biohacking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome biohacking resources
-
-## Biohacking
+A curated list of awesome biohacking resources.
 
 According to [Merriam-Webster](https://www.merriam-webster.com/dictionary/biohacking):
 
@@ -14,6 +12,7 @@ Overlaps with [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yours
 
 :warning: None of this is medical advice. For research use only.
 
+## Contents
+
+
 ## Books
-
-
