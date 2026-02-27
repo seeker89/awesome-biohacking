@@ -17,3 +17,7 @@ Overlaps with [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yours
 ## Books
 
 
+
+## Software
+
+- [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker with local storage and visualization. No account required.
