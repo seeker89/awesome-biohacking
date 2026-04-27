@@ -14,6 +14,10 @@ Overlaps with [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yours
 
 :warning: None of this is medical advice. For research use only.
 
+## Resources
+
+- [Biomogging](https://www.biomogging.com/compounds) - Structured reference for peptides, SARMs, GLP-1s, and biohacking calculators.
+
 ## Books
 
 
