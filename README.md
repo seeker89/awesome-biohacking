@@ -14,6 +14,10 @@ Overlaps with [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yours
 
 :warning: None of this is medical advice. For research use only.
 
+## Projects and Communities
+
+- [Longevity World Cup](https://longevityworldcup.com/) - Open-source biological-age competition where longevity athletes rank by improvements on aging clocks.
+
 ## Books
 
 
